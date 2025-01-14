@@ -21,13 +21,13 @@ _Agradeço por visitar meu perfil e ficarei feliz em conectar e trocar ideias so
 
 
 
-# Challenge conversor de moedas
+# Challenge Literalura
 
-O desafio Challenge Conversor de Moedas da Alura, em parceria com a Oracle Next Education, consiste em criar uma aplicação que permita a conversão de moedas utilizando Java. O objetivo é desenvolver um sistema que utilize taxas de câmbio atualizadas para converter valores entre diferentes moedas, como o Real Brasileiro (BRL), Dólar Americano (USD), Peso Argentino (ARS), entre outros2. O projeto deve ser implementado com conceitos de Programação Orientada a Objetos (POO) e utilizar a ExchangeRate-API para obter as taxas de câmbio em tempo real.
+O desafio Challenge Literalura, em parceria com a Oracle Next Education, O projeto Literalura é um catálogo de livros interativo desenvolvido em Java. Ele permite aos usuários buscar, registrar e listar livros e autores, além de fornecer diversas funcionalidades através de um menu simples de console. O projeto também consome APIs para obter dados dos livros e autores, oferecendo uma interface de uso amigável e intuitiva. Este projeto é ideal para quem deseja aprender mais sobre desenvolvimento de aplicativos em Java e integração com APIs.
 
 ## 🔥 Introdução
 
-Bem-vindo ao desafio Challenge Conversor de Moedas da Alura! Estou animado para embarcar nesta jornada onde poderei aplicar meus conhecimentos em Java e Programação Orientada a Objetos para criar uma aplicação que realiza conversões de moedas com precisão. Utilizando a ExchangeRate-API, terei a capacidade de buscar taxas de câmbio atualizadas e implementar funcionalidades que permitam a conversão entre diversas moedas. Este desafio é uma excelente oportunidade para praticar e aprimorar minhas habilidades de desenvolvimento, além de ganhar uma Badge exclusiva ao finalizar o projeto.
+Bem-vindo ao desafio Challenge Literalura! Estou animado para embarcar nesta jornada onde poderei aplicar meus conhecimentos em Java e Programação Orientada a Objetos para criar uma aplicação que realiza conversões de moedas com precisão. Utilizando a ExchangeRate-API, terei a capacidade de buscar taxas de câmbio atualizadas e implementar funcionalidades que permitam a conversão entre diversas moedas. Este desafio é uma excelente oportunidade para praticar e aprimorar minhas habilidades de desenvolvimento, além de ganhar uma Badge exclusiva ao finalizar o projeto.
 
 ### ⚙️ Pré-requisitos
 
